@@ -1,0 +1,143 @@
+	<type name="GorkaEJacket_Autumn">
+		<attachments chance="1.00">
+			<item name="GorkaPants_Autumn" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JungleBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="OMNOGloves_Brown" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="GorkaEJacket_Flat">
+		<attachments chance="1.00">
+			<item name="GorkaPants_Flat" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JungleBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="OMNOGloves_Brown" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="GorkaEJacket_PautRev">
+		<attachments chance="1.00">
+			<item name="GorkaPants_PautRev" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JungleBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="OMNOGloves_Brown" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="GorkaEJacket_Summer">
+		<attachments chance="1.00">
+			<item name="GorkaPants_Summer" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JungleBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="OMNOGloves_Brown" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="M65Jacket_Olive">
+		<attachments chance="1.00">
+			<item name="CargoPants_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JungleBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="OMNOGloves_Brown" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="M65Jacket_Black">
+		<attachments chance="1.00">
+			<item name="CargoPants_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JungleBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="OMNOGloves_Brown" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="M65Jacket_Tan">
+		<attachments chance="1.00">
+			<item name="CargoPants_Beige" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JungleBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="OMNOGloves_Brown" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="HuntingJacket_Autumn">
+		<attachments chance="1.00">
+			<item name="HunterPants_Autumn" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="OMNOGloves_Brown" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="HuntingJacket_Spring">
+		<attachments chance="1.00">
+			<item name="HunterPants_Spring" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="OMNOGloves_Brown" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="HuntingJacket_Summer">
+		<attachments chance="1.00">
+			<item name="HunterPants_Summer" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="OMNOGloves_Brown" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="HuntingJacket_Brown">
+		<attachments chance="1.00">
+			<item name="HunterPants_Brown" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="OMNOGloves_Brown" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="HuntingJacket_Winter">
+		<attachments chance="1.00">
+			<item name="HunterPants_Winter" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="OMNOGloves_Brown" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BDUJacket">
+		<attachments chance="1.00">
+			<item name="BDUPants" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="OMNOGloves_Brown" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JungleBoots_Black" chance="1.00" />
+		</attachments>
+	</type>

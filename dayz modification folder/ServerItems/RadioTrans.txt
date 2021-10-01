@@ -1,0 +1,5 @@
+	<type name="BaseRadio">
+		 <attachments chance="1.00">
+			<item name="CarBattery" />
+		</attachments>
+	</type>

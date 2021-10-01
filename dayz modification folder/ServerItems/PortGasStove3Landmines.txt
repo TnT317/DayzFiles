@@ -1,0 +1,19 @@
+	<type name="PortableGasStove">
+		<attachments chance="1.00">
+			<item name="Pot" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SmallGasCanister" chance="0.33" />
+			<item name="MediumGasCanister" chance="0.33" />
+			<item name="LargeGasCanister" chance="0.33" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LandMineTrap" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LandMineTrap" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LandMineTrap" chance="1.00" />
+		</attachments>
+	</type>
